@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8c74df0.css",
+    "main.js": "/static/js/main.299a3226.js",
+    "static/js/787.0fe99da1.chunk.js": "/static/js/787.0fe99da1.chunk.js",
+    "static/media/card-bg.png": "/static/media/card-bg.f5c53efadc0733f47209.png",
+    "static/media/3.png": "/static/media/3.8870bbe5513f8396b29e.png",
+    "static/media/fontawesome-webfont.svg": "/static/media/fontawesome-webfont.4f0848e903ddda934a59.svg",
+    "static/media/1.jpg": "/static/media/1.967d52bfc9da2f34350b.jpg",
+    "static/media/rewards.jpg": "/static/media/rewards.9049b9add92070b357fe.jpg",
+    "static/media/login-bg.jpg": "/static/media/login-bg.6199a90a07af10ac5ffb.jpg",
+    "static/media/2.jpg": "/static/media/2.2ea6c5e58e67a971367e.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/rakeback.png": "/static/media/rakeback.ac1f49c32da9405e2a64.png",
+    "static/media/cash.png": "/static/media/cash.af9cb7c2d688a89b8171.png",
+    "static/media/ticket.png": "/static/media/ticket.ac3a684f6cc37d72e313.png",
+    "static/media/fontawesome-webfont.ttf?v=3.2.1": "/static/media/fontawesome-webfont.b048c7e641eda9ad4a69.ttf",
+    "static/media/user.png": "/static/media/user.69db6347e432bd19cbe9.png",
+    "static/media/gaming-table.png": "/static/media/gaming-table.192944518cacab94dbe5.png",
+    "static/media/real-cash.png": "/static/media/real-cash.baf191170c51766e9c45.png",
+    "static/media/poker-chipset.png": "/static/media/poker-chipset.0d2ecb744f599a3a58a9.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/fontawesome-webfont.woff?v=3.2.1": "/static/media/fontawesome-webfont.a492f3a9481d9ce64083.woff",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.de3985a922b4cbc1d518.eot",
+    "static/media/pokerdangal-logo.png": "/static/media/pokerdangal-logo.bd081c3129f482851d60.png",
+    "static/media/pokerbaazi-logo.png": "/static/media/pokerbaazi-logo.1a8d8e577ab62810600e.png",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/logo.png": "/static/media/logo.85da7c1a97cf5b6bae00.png",
+    "static/media/poket52-logo.png": "/static/media/poket52-logo.50af751c35b3ef4c9716.png",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/refer-a-friend.png": "/static/media/refer-a-friend.44ca6369cf5452be5493.png",
+    "static/media/rewards.png": "/static/media/rewards.3e054ab63145545cec43.png",
+    "index.html": "/index.html",
+    "main.e8c74df0.css.map": "/static/css/main.e8c74df0.css.map",
+    "main.299a3226.js.map": "/static/js/main.299a3226.js.map",
+    "787.0fe99da1.chunk.js.map": "/static/js/787.0fe99da1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c74df0.css",
+    "static/js/main.299a3226.js"
+  ]
+}
