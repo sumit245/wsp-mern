@@ -1,0 +1,30 @@
+.footer-section {
+  position: relative;
+  width: 100%;
+  padding-top: 0rem;
+  overflow: hidden;
+}
+.footer-content{
+    align-items: baseline;
+    justify-content: center;
+    margin-left: 4%;
+    border-top: 0.063rem solid #2ecdf3;
+    margin-right: 4%;
+}
+.footer-bottom-left>p,a{
+  font-size:small;
+  color: #ffffff;
+}
+
+.footer-bottom-right ul{
+    display:inline-flex;
+    list-style: none;
+    /* float: right; */
+}
+
+.footer-bottom-right>ul>li>a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-right: 20px;
+}
